@@ -1,1 +1,5 @@
-<img width="774" height="236" alt="Image" src="https://github.com/user-attachments/assets/cc5d7fc5-9ce2-4800-8293-aeafce3e0b81" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/deeptime-ml/.github/blob/main/banner2.png?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/deeptime-ml/.github/blob/main/banner.png?raw=true">
+  <img alt="Fallback image description" src="https://github.com/deeptime-ml/.github/blob/main/banner.png?raw=true">
+</picture>
